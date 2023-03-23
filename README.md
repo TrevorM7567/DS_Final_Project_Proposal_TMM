@@ -1,4 +1,4 @@
-# DS_Final_Project_Proposal_TMM
+# DS_Final_Project_TMM
 Final capstone project for the Bellarmine Data Science program
 
 Daily Trips: How often do Americans Leave Home? 
