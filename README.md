@@ -25,4 +25,4 @@ Most people in America leave their houses on a regular basis, but some do so at 
 
 4/24/2023: final_project_paper_TMM, which encapsulates the entire project and all of its steps.
 
-4/26/2023: Final Project Code uploaded. In the future, I would retrain these models when a significant amount of new information is uploaded by data.gov.
+4/26/2023: Final Project Code uploaded. This contains the final step of the project, which is predictive analysis. In the future, I would retrain these models when a significant amount of new information is uploaded by data.gov
